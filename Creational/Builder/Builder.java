@@ -1,4 +1,4 @@
-package Creational;
+package Creational.Builder;
 
 public class Builder {
 

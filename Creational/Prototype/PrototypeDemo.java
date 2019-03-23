@@ -1,4 +1,4 @@
-package Creational;
+package Creational.Prototype;
 
 public class PrototypeDemo {
 

@@ -1,4 +1,4 @@
-package Creational;
+package Creational.Factory;
 
 public class Circle implements Shape {
     @Override
